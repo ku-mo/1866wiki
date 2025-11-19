@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '1866.wiki',
-  tagline: 'A new era of unity for server 1866',
+  tagline: 'A Love Letter in Governance to the 1866 Community',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
