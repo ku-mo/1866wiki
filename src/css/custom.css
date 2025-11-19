@@ -6,25 +6,126 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  /* Core Brand (Lavender) */
+  --ifm-color-primary: #7287fd;
+  --ifm-color-primary-dark: #6479e5;
+  --ifm-color-primary-darker: #5a6ecc;
+  --ifm-color-primary-darkest: #4c5caf;
+  --ifm-color-primary-light: #8395ff;
+  --ifm-color-primary-lighter: #9baaff;
+  --ifm-color-primary-lightest: #b3bfff;
+
+  /* UI Backgrounds */
+  --ifm-background-color: #eff1f5;        /* Base */
+  --ifm-background-surface-color: #e6e9ef; /* Mantle */
+  --ifm-background-alt-color: #dce0e8;     /* Crust */
+
+  /* Text */
+  --ifm-font-color-base: #4c4f69;        /* Text */
+  --ifm-font-color-secondary: #6c6f85;   /* Subtext1 */
+  --ifm-font-color-tertiary: #7c7f93;    /* Subtext0 */
+
+  /* Borders */
+  --ifm-color-emphasis-200: #bcc0cc;
+  --ifm-color-emphasis-300: #a1a5b0;
+
+  /* Code Highlighting */
+  --docusaurus-highlighted-code-line-bg: rgba(114, 135, 253, 0.12); /* Lavender subtle */
+
+  /* Code Font Size */
+  --ifm-code-font-size: 92%;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  /* Core Brand (Mauve) */
+  --ifm-color-primary: #cba6f7;
+  --ifm-color-primary-dark: #b38ce3;
+  --ifm-color-primary-darker: #9f79cf;
+  --ifm-color-primary-darkest: #8a65bb;
+  --ifm-color-primary-light: #d3b0f8;
+  --ifm-color-primary-lighter: #ddbefa;
+  --ifm-color-primary-lightest: #e8cefc;
+
+  /* UI Backgrounds */
+  --ifm-background-color: #1e1e2e;       /* Base */
+  --ifm-background-surface-color: #181825; /* Mantle */
+  --ifm-background-alt-color: #11111b;      /* Crust */
+
+  /* Text */
+  --ifm-font-color-base: #cdd6f4;        /* Text */
+  --ifm-font-color-secondary: #a6adc8;   /* Subtext1 */
+  --ifm-font-color-tertiary: #9399b2;    /* Subtext0 */
+
+  /* Borders */
+  --ifm-color-emphasis-200: #585b70;
+  --ifm-color-emphasis-300: #45475a;
+
+  /* Code Highlighting */
+  --docusaurus-highlighted-code-line-bg: rgba(203, 166, 247, 0.08); /* Mauve subtle */
+}
+
+/* --------------------------------------------------------------
+   🧱 Structural Fixes for Catppuccin Look
+   -------------------------------------------------------------- */
+
+/* Cards */
+.card {
+  background-color: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--ifm-background-surface-color);
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+}
+
+/* Footers */
+.footer {
+  background-color: var(--ifm-background-alt-color);
+}
+
+/* Sidebar */
+.menu {
+  background-color: var(--ifm-background-surface-color);
+}
+
+/* Code blocks */
+.codeBlockContainer {
+  background-color: var(--ifm-background-alt-color) !important;
+}
+
+/* Tables */
+table {
+  border-color: var(--ifm-color-emphasis-300);
+}
+
+thead {
+  background-color: var(--ifm-background-alt-color);
+}
+
+/* Alerts – mapped to Catppuccin semantic colors */
+.alert--success {
+  --ifm-alert-background-color: #a6e3a1;
+  --ifm-alert-border-color: #89dceb;
+  --ifm-alert-color: #11111b;
+}
+
+.alert--info {
+  --ifm-alert-background-color: #89dceb;
+  --ifm-alert-border-color: #74c7ec;
+  --ifm-alert-color: #11111b;
+}
+
+.alert--warning {
+  --ifm-alert-background-color: #f9e2af;
+  --ifm-alert-border-color: #f5c2e7;
+  --ifm-alert-color: #11111b;
+}
+
+.alert--danger {
+  --ifm-alert-background-color: #f38ba8;
+  --ifm-alert-border-color: #eba0ac;
+  --ifm-alert-color: #11111b;
 }
