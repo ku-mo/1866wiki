@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: '1866.wiki',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -68,7 +68,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: '1866.wiki',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -78,7 +78,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'docs',
             position: 'left',
-            label: 'Tutorial',
+            label: 'NAP',
           }
         ],
       },
@@ -89,7 +89,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'NAP',
                 to: '/docs/category/overview',
               },
             ],
