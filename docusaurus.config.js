@@ -71,7 +71,7 @@ const config = {
         title: '1866.wiki',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/shield-lion-svgrepo-com.svg',
         },
         items: [
           {
