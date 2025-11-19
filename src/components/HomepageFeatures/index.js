@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Clarity by Design',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        NAP 9 was built from first principles to deliver clear, predictable 
+        governance that alliances can actually rely on.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Built for Real Behavior',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Designed for real player behavior, NAP 9 keeps systems simple, voting 
+        reliable, and enforcement unmistakably fair.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Small Council Advantage',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        By shrinking governance to the smallest stable group, NAP 9 creates a 
+        system that is fast, enforceable, and built to last.
       </>
     ),
   },
