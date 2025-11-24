@@ -12,8 +12,10 @@ Major documentation milestones, website changes, and Covenant revisions.
 
 ---
 
-## v0.1.1 — Harboring Clarification
+## v0.1.1 — Harboring Clarification & Discord Guide
 - Added explicit 4-hour grace window after official notice for harboring; removed offline-proof requirement.  
+- New Discord Server Guide with role/permission maps, channel tree, thread policy, and admin setup steps.  
+- Set explicit slugs across docs to eliminate broken links.
 
 ---
 
