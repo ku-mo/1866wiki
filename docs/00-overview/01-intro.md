@@ -4,6 +4,7 @@ title: "Welcome to NAP 9"
 sidebar_label: "Introduction"
 sidebar_position: 1
 description: "Overview of the NAP 9 governance system for Server 1866 — a structured, procedural, and participation-driven framework for diplomacy and alliance coordination."
+slug: /intro
 ---
 
 # 🛡️ Welcome to **NAP 9**

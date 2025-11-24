@@ -1,7 +1,8 @@
 ---
 id: quickref
-title: ⚡ NAP 9 Quick Reference
-sidebar_label: Quick Reference
+title: "⚡ NAP 9 Quick Reference"
+sidebar_label: "Quick Reference"
+slug: /quickref
 ---
 
 # ⚡ NAP 9 — Quick Reference Guide
@@ -265,4 +266,3 @@ NAP 9’s core loop:
 **Report → Evidence → Clerk Log → Vote → Penalty/Appeal → Archive**
 
 Everything revolves around procedural correctness, participation, and predictable enforcement.
-

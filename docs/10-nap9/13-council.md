@@ -4,6 +4,7 @@ title: Governance Council
 sidebar_label: Council
 sidebar_position: 13
 description: Structure, powers, quorum rules, and voting processes for the NAP 9 Council.
+slug: /nap9-council
 ---
 
 # Governance Council

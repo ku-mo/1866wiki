@@ -4,6 +4,7 @@ title: Appeals System
 sidebar_label: Appeals
 sidebar_position: 23
 description: Procedures for filing, reviewing, voting on, and resolving appeals.
+slug: /nap9-appeals
 ---
 
 # Appeals System

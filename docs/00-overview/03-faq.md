@@ -1,7 +1,8 @@
 ---
 id: faq
-title: ❓ NAP 9 FAQ
-sidebar_label: FAQ
+title: "❓ NAP 9 FAQ"
+sidebar_label: "FAQ"
+slug: /faq
 ---
 
 # ❓ NAP 9 — Frequently Asked Questions
@@ -298,4 +299,3 @@ NAP 9 runs on:
 - **Strong land management**  
 
 If you follow procedures, the system works smoothly.
-
