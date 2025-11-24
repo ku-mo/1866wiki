@@ -33,6 +33,6 @@ If an alliance shelters a banned/blacklisted player or penalty evader:
 
 **Definition & Grace Window**
 - Harboring applies once leadership is officially notified (Clerk post in `#case-log` or direct Clerk ping).  
-- Alliances have **up to 4 hours** from notice to remove the player; self-report and act immediately if discovered.
+- Alliances have **up to 4 hours** from notice to remove the player; self-report and act immediately if discovered.  
 
 Protection is restored only after the player leaves and the Council confirms compliance.
