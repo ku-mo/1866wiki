@@ -52,6 +52,10 @@ Perm tip: never grant `Administrator` to Clerks/Council. Use explicit channel ov
 🤖 Ops
   ├─ #bot-logs (bot output; limit view)
   └─ #staff-notes (Admin/Clerk)
+
+🧭 Optional Category
+  ├─ #training-room (for onboarding/testing perms)
+  └─ #voice-briefing (voice; locked to Council/Clerks)
 ```
 
 ---
@@ -71,18 +75,11 @@ Tip: set category-level perms first, then tighten individual channels (e.g., loc
 
 ---
 
-## Setup Walkthrough (Admin)
-1. **Create roles** in order above; set role colors/priority; keep Admin count minimal.  
-2. **Create categories and channels** matching the map; apply category-level perms:  
-   - Announcements: @everyone read, no send; Admin/Clerk send.  
-   - Cases & Records: @everyone read `#evidence` + send; deny send elsewhere.  
-   - Council: only Council/Clerk/Admin view.  
-3. **Channel-specific overrides** where needed (e.g., `#vote-windows` send = Clerk only).  
-4. **Bots**: add to Bot role; restrict to `#bot-logs` + channels they must see; remove `Manage Roles/Channels` unless essential.  
-5. **Slowmode** on public/appeals to reduce spam; keep off in Council and evidence.  
-6. **Pins**: allow Clerks to pin in evidence/logs; others deny.  
-7. **Thread policy**: allow Clerks/Council to create threads in evidence/vote windows for context; disable for everyone else.  
-8. **Audit**: test with a non-privileged account; ensure Council cannot see Clerk-only channel; Associates cannot post in Council.
+## Threads Guidance
+- **Where to allow threads:** `#case-log` (per-case thread opened by Clerk for discussion/linking), `#vote-windows` (optional thread opened by Clerk to contain vote chatter), `#evidence` (Clerk can open a short clarification thread).  
+- **Who can open:** Clerks/Council only. Everyone can reply inside once opened (except in announcements).  
+- **Where to avoid:** announcements, proposals, appeals, public-questions. Keep those flat for auditability.  
+- **Archiving:** set auto-archive to 24–72h; paste the thread link into `#nap-council-chat` when needed so ops can reference it.
 
 ---
 
@@ -100,3 +97,19 @@ Tip: set category-level perms first, then tighten individual channels (e.g., loc
 - **Backup**: export channel permission templates; keep a runbook for restoring roles.  
 - **Logging**: enable server audit log; restrict viewing to Admin.  
 - **Verification**: gate entry via simple question to reduce alts; whitelist known alliances.
+
+---
+
+## Setup Walkthrough (Admin)
+1. **Create roles** in order above; set role colors/priority; keep Admin count minimal.  
+2. **Create categories and channels** matching the channel map; apply category-level perms first:  
+   - Announcements: @everyone read, no send; Admin/Clerk send.  
+   - Cases & Records: @everyone can read `#evidence` + send; deny send elsewhere.  
+   - Council: only Council/Clerk/Admin view.  
+3. **Channel-specific overrides** where needed (e.g., `#vote-windows` send = Clerk only; `#nap-proposals` read for Associates).  
+4. **Bots**: add to Bot role; restrict to `#bot-logs` + only channels they need; remove `Manage Roles/Channels` unless essential.  
+5. **Slowmode** on public/appeals to reduce spam; keep off in Council and evidence.  
+6. **Pins**: allow Clerks to pin in evidence/logs; others deny.  
+7. **Threads**: allow Clerks/Council to create threads in evidence/vote windows for context; disable for everyone else.  
+8. **Voice (optional)**: restrict `#voice-briefing` to Council/Clerks; block connect for others.  
+9. **Audit** with a non-privileged account; verify Associates cannot post in Council, Council cannot see `#clerk-desk`, and announcements are read-only.
