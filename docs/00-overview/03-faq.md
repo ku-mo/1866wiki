@@ -33,8 +33,8 @@ This is the minimum size needed for:
 ---
 
 ## **Is this the same as the old NAP 15?**
-No. NAP 9 is smaller, structured, procedural, and functional.  
-NAP 15 was attendance-optional and often inactive.  
+No. NAP 9 is structured, procedural, and functional.  
+NAP 15 was minimal, lacked structure, and was participation-optional.  
 NAP 9 requires engagement and has real consequences for silence.
 
 ---
@@ -42,24 +42,25 @@ NAP 9 requires engagement and has real consequences for silence.
 # 👥 Membership
 
 ## **Who can be a Full Member?**
-The **Top 9 alliances** in weekly power ranking.
+The **Top 9 alliances** in weekly power ranking are eligible for full membership, skipping any suspended or opt-out alliances.
 
 ## **How does an alliance become an Associate Member?**
 First-come, first-served:
 
 1. R5 posts a petition in `#membership-petitions`  
-2. Verified by a Clerk  
-3. Added to Associate list if slots are available (max 7)
+2. A clerk will then manually verify the submission  
+3. Alliance is added to Associate list if slots are available (max 7)
+4. If Associate list is full, applicant is added to the waitlist. 
 
 ---
 
 ## **Do Associate Members have protection?**
-Yes — they receive **L1–L5 NAP protection**.  
+Yes, they receive **L1–L5 NAP protection**.  
 They do *not* receive:
 
 - L6 rights  
-- voting rights  
-- rotation participation  
+- Council participation (voting rights)  
+- Land rotation participation  
 
 ---
 
@@ -67,11 +68,11 @@ They do *not* receive:
 They immediately lose:
 
 - all land protections  
-- standing in disputes  
+- eligibility to raise disputes  
 - evidence submission rights  
-- L6 ownership  
+- L6 ownership
 
-NAP 9 does **not** protect independent alliances.
+NAP 9 does **not** implicitly protect independent alliances.
 
 ---
 
@@ -89,8 +90,7 @@ If all 9 reps vote early → vote closes instantly.
 ## **What counts as quorum?**
 - **5 of 9** votes (YES, NO, or ABSTAIN)
 
-Absence does **not** count.
-
+Absence does **not** count towards quorum.
 ---
 
 ## **What’s the difference between Simple Majority and Supermajority?**
@@ -100,7 +100,7 @@ Absence does **not** count.
 ---
 
 ## **Does ABSTAIN count as a vote?**
-Yes — it counts toward quorum.
+Yes, it counts toward quorum. The ABSTAIN votes server an important function in council processes.
 
 ---
 
@@ -124,22 +124,22 @@ Yes — it counts toward quorum.
 ## **What is an automatic blacklist?**
 Only one behavior triggers automatic blacklisting:
 
-### **Dropping tags to attack another player (Rule 6).**
+### **Dropping tags to attack another player.**
 
 - First instance → 48h ban  
 - Second instance → **automatic permanent blacklist**  
 
-Everything else requires a Council vote.
+Everything else requires a process.
 
 ---
 
 # 🛠️ Case Handling
 
 ## **What do I do if something happens in-game?**
-1. Take screenshots (with timestamps)  
-2. Write a short summary  
-3. Post in `#evidence`  
-4. Wait for Clerk approval  
+1. Take screenshots (with timestamps in Server Time)  
+2. Write a short summary of events
+3. Post in `#evidence`
+4. Wait patiently for Clerk approval  
 
 Do *not* DM Clerks unless asked.
 
@@ -153,7 +153,7 @@ Do *not* DM Clerks unless asked.
 
 No collages.  
 No edited screenshots.  
-No DM logs.
+No DMs.
 
 ---
 
@@ -171,16 +171,14 @@ Until then, no voting or penalties can begin.
 # 🗺️ Land & Rotation
 
 ## **Who can hold L6 lands?**
-Only:
-- **Top 3 Full Member alliances**  
-- following weekly rotation  
+Only the**top 3 Full Member alliances** are eligible.
 
 ---
 
 ## **Can Associate Members or Non-Members hold L6?**
 No.
 
-Associate Members must release L6 immediately.  
+Associate Members must release any help L6 lands immediately.  
 Non-Members may be forcibly stripped of L6 without penalty.
 
 ---
@@ -204,6 +202,8 @@ Harboring results in:
 - immediate loss of protection  
 - immediate loss of rotation rights  
 - potential Severe case  
+
+**Grace window:** Harboring applies after official notice (Clerk post in `#case-log` or direct Clerk ping). Alliances have **up to 4 hours** from that notice to remove the player; self-report promptly if leadership was offline.
 
 ---
 

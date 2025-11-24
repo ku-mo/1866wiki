@@ -12,6 +12,11 @@ Major documentation milestones, website changes, and Covenant revisions.
 
 ---
 
+## v0.1.1 — Harboring Clarification
+- Added explicit 4-hour grace window after official notice for harboring; removed offline-proof requirement.  
+
+---
+
 ## v0.1.0 — Init
 - Imported NAP 9 Covenant, Guides, Philosophy, and Quickrefs into Docusaurus structure.  
 - Authored Covenant sections (membership through amendments) with evidence/vote/land/tag-drop rules.  

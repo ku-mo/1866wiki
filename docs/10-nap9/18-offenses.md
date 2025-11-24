@@ -72,6 +72,7 @@ High intent, high impact, coordinated aggression, destabilization, or evasion.
 - Targeted harassment  
 - Penalty evasion (ban dodging, tag hopping)  
 - Evidence tampering  
+- Harboring a banned/blacklisted player **after official notice** (not removed within 4 hours)  
 - Repeated Moderate offenses
 
 **Required Evidence**

@@ -185,6 +185,10 @@ If an alliance shelters:
 They lose **all NAP protection immediately**  
 (and rotation rights until compliance confirmed).
 
+**Definition & Grace Window**
+- Harboring applies once leadership is officially notified (Clerk post in `#case-log` or direct Clerk ping).  
+- Alliance has **up to 4 hours** from notice to remove the player; self-report and immediate kick is expected.
+
 ---
 
 # 🗺️ Land Rules (Fast Version)
