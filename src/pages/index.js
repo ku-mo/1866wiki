@@ -32,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="NAP 9 @ 1866.wiki"
+      title="Platform for Our NAP 9"
       description="A Love Letter in Governance to the 1866 Community">
       <HomepageHeader />
       <main>
