@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title="NAP 9 @ 1866.wiki"
+      description="A Love Letter in Governance to the 1866 Community">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
