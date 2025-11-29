@@ -77,7 +77,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs',
+            to: '/docs/index',
             position: 'left',
             label: 'NAP',
           }
@@ -91,7 +91,7 @@ const config = {
             items: [
               {
                 label: 'NAP',
-                to: '/docs/overview',
+                to: '/docs/intro',
               },
             ],
           },
