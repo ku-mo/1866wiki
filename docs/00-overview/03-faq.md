@@ -5,74 +5,68 @@ sidebar_label: "FAQ"
 slug: /faq
 ---
 
-# ❓ NAP 9 — Frequently Asked Questions
-
-A concise, high-signal FAQ covering the most common questions players, R5s, and Clerks will ask when interacting with NAP 9.
+# ❓ NAP 9 — Frequently Asked Questions  
+A concise, high-signal FAQ for players, R5s, and Clerks.
 
 ---
 
 # 🧱 General Questions
 
 ## **What *is* NAP 9?**
-NAP 9 is a procedural governance system for Server 1866.  
-It defines **membership tiers**, **case handling**, **voting**, **penalties**, and **land rules** using a formal judicial + legislative structure.
+A structured governance system for Server 1866.  
+It defines **membership**, **case handling**, **voting**, **penalties**, and **land protection** using a formal, auditable process.
 
-It replaces loosely enforced diplomacy with a consistent, trackable, auditable system.
+NAP 9 replaces informal diplomacy with rules that are consistent and trackable.
 
 ---
 
 ## **Why is it called NAP 9?**
-Because it is governed by **9 Full Member alliances**, each with one voting representative.  
-This is the minimum size needed for:
+Because it is governed by **9 Full Member alliances**, each holding one seat on the Council.  
+Nine is the smallest stable size that still allows:
 
 - resilience  
-- quorum  
-- distribution of responsibility  
-- multi-timezone consistency  
+- multi-timezone coverage  
+- quorum reliability  
+- shared responsibility  
 
 ---
 
-## **Is this the same as the old NAP 15?**
-No. NAP 9 is structured, procedural, and functional.  
-NAP 15 was minimal, lacked structure, and was participation-optional.  
-NAP 9 requires engagement and has real consequences for silence.
+## **Is this related to the old NAP 15?**
+NAP 9 is a full replacement.  
+NAP 15 was loose, unstructured, and optional.  
+NAP 9 is procedural, logged, and participation-driven.
 
 ---
 
 # 👥 Membership
 
 ## **Who can be a Full Member?**
-The **Top 9 alliances** in weekly power ranking are eligible for full membership, skipping any suspended or opt-out alliances.
+Any of the **Top 9 alliances** in weekly power ranking (skipping suspended or opted-out alliances).
 
 ## **How does an alliance become an Associate Member?**
 First-come, first-served:
 
 1. R5 posts a petition in `#membership-petitions`  
-2. A clerk will then manually verify the submission  
-3. Alliance is added to Associate list if slots are available (max 7)
-4. If Associate list is full, applicant is added to the waitlist. 
+2. Clerk verifies eligibility  
+3. If space is open (max 7), the alliance is added  
+4. Otherwise, they enter the waitlist  
 
 ---
 
-## **Do Associate Members have protection?**
-Yes, they receive **L1–L5 NAP protection**.  
-They do *not* receive:
-
-- L6 rights  
-- Council participation (voting rights)  
-- Land rotation participation  
+## **Do Associate Members get protection?**
+Yes — for lands they *currently hold*, up to **Level 5**.  
+They **do not** vote in Council matters.
 
 ---
 
-## **What happens if an alliance opts out of NAP 9?**
-They immediately lose:
+## **What if an alliance opts out?**
+They instantly lose:
 
-- all land protections  
-- eligibility to raise disputes  
+- all NAP protections  
+- the ability to file cases  
 - evidence submission rights  
-- L6 ownership
 
-NAP 9 does **not** implicitly protect independent alliances.
+NAP 9 does **not** cover independent alliances.
 
 ---
 
@@ -80,172 +74,150 @@ NAP 9 does **not** implicitly protect independent alliances.
 
 ## **How long do votes last?**
 - **24h** — amendments, blacklists, expulsions, appeals  
-- **16h** — normal rulings, moderate cases  
-- **8h** — emergencies, active attacks  
+- **16h** — standard rulings, moderate penalties  
+- **8h** — emergencies or active attacks  
 
-If all 9 reps vote early → vote closes instantly.
+If all 9 seats vote early → vote closes immediately.
 
 ---
 
-## **What counts as quorum?**
-- **5 of 9** votes (YES, NO, or ABSTAIN)
+## **What is quorum?**
+- **5 of 9** total votes (YES / NO / ABSTAIN)
 
-Absence does **not** count towards quorum.
+Absence does *not* count.
+
 ---
 
 ## **What’s the difference between Simple Majority and Supermajority?**
-- **Simple Majority (5 YES)** → standard penalties  
+- **Simple Majority (5 YES)** → normal actions  
 - **Supermajority (7 YES)** → blacklists, amendments, expulsions  
 
 ---
 
 ## **Does ABSTAIN count as a vote?**
-Yes, it counts toward quorum. The ABSTAIN votes server an important function in council processes.
+Yes. ABSTAIN counts for quorum and signals that the representative is participating while staying neutral.
 
 ---
 
 # ⚖️ Offenses & Penalties
 
-## **What are the offense tiers?**
-- 🟨 **Minor** — accidental, low impact  
-- 🟧 **Moderate** — repeated or harmful  
-- 🟥 **Severe** — major or malicious  
+## **What are the three offense tiers?**
+- 🟨 **Minor** — accidental, low-impact  
+- 🟧 **Moderate** — repeated or moderately harmful  
+- 🟥 **Severe** — high-impact, malicious, or system-threatening  
 
 ---
 
-## **What causes escalation?**
-- 2 Minors in 14 days → Moderate  
-- 2 Moderates in 30 days → Severe  
-- Evidence tampering → automatic Severe  
+## **How does escalation work?**
+- 2 Minors in 14 days → **Moderate**  
+- 2 Moderates in 30 days → **Severe**  
+- Tampering → automatic Severe  
 - Penalty evasion → automatic Severe  
-
----
-
-## **What is an automatic blacklist?**
-Only one behavior triggers automatic blacklisting:
-
-### **Dropping tags to attack another player.**
-
-- First instance → 48h ban  
-- Second instance → **automatic permanent blacklist**  
-
-Everything else requires a process.
 
 ---
 
 # 🛠️ Case Handling
 
 ## **What do I do if something happens in-game?**
-1. Take screenshots (with timestamps in Server Time)  
-2. Write a short summary of events
-3. Post in `#evidence`
-4. Wait patiently for Clerk approval  
+1. Take clear screenshots (with **Server Time** if possible)  
+2. Write a short summary  
+3. Post in `#evidence`  
+4. Wait for Court Clerk validation  
 
-Do *not* DM Clerks unless asked.
+Do **not** DM Clerks unless asked.
 
 ---
 
 ## **What evidence is required?**
 - timestamped screenshot/video  
-- offender clearly visible  
-- clear and direct view of event  
-- context only if needed  
+- offender visible  
+- event clearly captured  
+- minimal context  
 
-No collages.  
-No edited screenshots.  
-No DMs.
+**Not allowed:** edited images, collages, DMs, unverifiable claims.
 
 ---
 
-## **When does the Council officially “receive” a case?**
+## **When does the Council officially receive a case?**
 When a Clerk:
 
-- verifies the evidence  
+- validates evidence  
 - assigns a Case ID  
 - posts it in `#case-log`  
 
-Until then, no voting or penalties can begin.
+Everything before that is *just a report*, not a case.
 
 ---
 
-# 🗺️ Land & Rotation
+# 🗺️ Land Protection
 
-## **Who can hold L6 lands?**
-Only the**top 3 Full Member alliances** are eligible.
+## **What land does NAP 9 protect?**
+Land an alliance is *already holding* at the moment of the incident.
 
----
-
-## **Can Associate Members or Non-Members hold L6?**
-No.
-
-Associate Members must release any help L6 lands immediately.  
-Non-Members may be forcibly stripped of L6 without penalty.
+- Full Members → all held lands  
+- Associates → lands up to Level 5  
 
 ---
 
-## **What if an alliance refuses a temporary drop?**
-They lose **L6 eligibility** for the full rotation cycle.
+## **Does NAP 9 include land rotations or eligibility schedules?**
+No. Protection is possession-based.  
+Any rotation system would require a future amendment.
 
 ---
 
 # 🚫 Blacklisting & Harboring
 
 ## **What counts as harboring?**
-Allowing a banned or blacklisted player to:
+Letting a banned or blacklisted player:
 
-- remain in your alliance  
-- participate in operations  
+- remain in the alliance  
+- contribute to operations  
 - avoid penalties  
 
-Harboring results in:
+Harboring causes **immediate loss of NAP protection**.
 
-- immediate loss of protection  
-- immediate loss of rotation rights  
-- potential Severe case  
-
-**Grace window:** Harboring applies after official notice (Clerk post in `#case-log` or direct Clerk ping). Alliances have **up to 4 hours** from that notice to remove the player; self-report promptly if leadership was offline.
+**Grace Window:**  
+Harboring applies once leadership receives official notice (Clerk post in `#case-log` or direct ping).  
+Alliances get **up to 4 hours** to remove the player.
 
 ---
 
 ## **Can blacklisted players ever return?**
-Yes — **only** via a 7/9 Supermajority vote.
-
-Automatic blacklists (tag-drop) still require Supermajority to overturn.
+Yes — with a **7/9 Supermajority** vote.
 
 ---
 
 # 🚑 Appeals
 
 ## **What penalties can be appealed?**
-Only penalties lasting **more than 48 hours**.
+Any penalty longer than **48 hours**.
 
-## **How long do I have to file an appeal?**
-Within **48 hours** of the penalty.
+## **When do I file?**
+Within **48 hours** of receiving the penalty.
 
 ## **How does an appeal work?**
 1. Post in `#appeals`  
 2. Clerk validates  
-3. 24h Review  
-4. 24h Vote  
+3. 24h review  
+4. 24h vote  
 
-Results:
+Outcomes:
 - **5 YES** → reduced  
 - **7 YES** → overturned  
-- anything else → denied  
+- Otherwise → denied  
 
 ---
 
 # 📉 Participation / Inactivity
 
-## **What happens if a Council seat goes silent?**
+## **What happens if a Council seat goes inactive?**
 If a Full Member:
 
 - misses **2 emergency votes** → review  
-- misses **3 votes total within 14 days** → disciplinary review  
+- misses **3 votes in 14 days** → disciplinary review  
 
-Penalties may include:
+Possible outcomes:
 
-- rotation suspension  
 - downgrade to Associate  
 - loss of voting rights  
 
@@ -254,48 +226,48 @@ Penalties may include:
 ## **Can an alliance lose Full Member status?**
 Yes, if:
 
-- they drop out of the Top 9  
-- are expelled by Supermajority  
-- fail participation requirements  
+- they fall out of Top 9  
+- they are expelled  
+- they fail participation standards  
 
-The next alliance in power ranking moves into the open seat.
+The next eligible alliance moves into the open seat.
 
 ---
 
 # 🧩 Miscellaneous
 
-## **Who runs NAP 9?**
-- **Council** = voting reps  
-- **Clerks** = procedural operators  
-- **Delegates** = alternates  
+## **Who actually runs NAP 9?**
+- **Council** → decisions  
+- **Clerks** → procedure  
+- **Delegates** → backups  
 
-No single person “owns” the NAP.
-
----
-
-## **Can normal players submit evidence?**
-Yes — anyone may post in `#evidence`.
+No single actor controls the system.
 
 ---
 
-## **Where do penalties apply?**
-Across **all** NAP Members and Associates.
+## **Can any player submit evidence?**
+Yes — **anyone** may submit to `#evidence`.
 
 ---
 
-## **Does NAP 9 cover Capitol?**
-Yes — Capitol combat requires mutual agreement.
-Tile hits without agreement use the mirrored retaliation rule.
+## **Do penalties apply across all NAP alliances?**
+Yes. Penalties are universal across the entire NAP.
+
+---
+
+## **Does the NAP 9 Covenant cover Capitol?**
+Yes, but only minimally. It green-lights Capitol tile hits only with **mutual consent**.  
+Tile hits without consent follow mirrored retaliation rules.
 
 ---
 
 # 🏁 Summary
+NAP 9 operates on:
 
-NAP 9 runs on:
-- **Clear processes**  
-- **Neutral Clerks**  
-- **Structured voting**  
-- **Predictable penalties**  
-- **Strong land management**  
+- clear processes  
+- neutral Clerks  
+- structured voting  
+- predictable penalties  
+- stable land rules  
 
-If you follow procedures, the system works smoothly.
+Follow the procedures → everything works cleanly.

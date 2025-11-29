@@ -3,75 +3,142 @@ id: philosophy-design
 title: Design Principles
 sidebar_label: Design Principles
 sidebar_position: 43
-description: Principles guiding the construction of the governance, judicial, and procedural systems of NAP 9.
 slug: /philosophy-design
+description: Forward-looking architectural principles guiding how NAP 9 should evolve through amendments and reforms.
 ---
 
-# Design Principles for NAP 9
-Reference sheet for future edits, training, and audits. Use these principles to keep the system coherent as it evolves.
+# Design Principles Underlying NAP 9
 
+:::info Overview
+These principles serve as the blueprint for future development.
+They explain why NAP 9 was designed the way it was, what amendments should aim for, and what the system intentionally avoids.
+:::
 ---
 
-## 1) Clarity Over Completeness
-- Prefer short, explicit rules to long, fuzzy ones.  
-- Define inputs and outputs; avoid moral language and intent guessing.
+## 1. Preserve Clarity Even at the Cost of Breadth
 
----
+Rules should define boundaries and procedures unambiguously, even if this means not addressing every possible scenario.  
+Ambiguity invites selective enforcement; clarity preserves fairness and reduces interpretive drift.
 
-## 2) Procedure Before Preference
-- Cases begin only after a Clerk logs evidence.  
-- Votes run on set windows; outcomes follow thresholds.  
-- No “special exceptions” without an amendment or emergency vote.
-
----
-
-## 3) Small, Accountable Governance
-- Nine voting seats; quorum 5; supermajority 7.  
-- Participation is enforced; silence has costs.  
-- Delegates and alternates prevent empty chairs.
+Amendments should maintain or improve legibility, not introduce complexity.
 
 ---
 
-## 4) Neutral Operators
-- Clerks run process, not politics.  
-- Evidence, IDs, votes, and archives stay consistent regardless of alliances involved.
+## 2. Maintain Procedure as the Primary Safeguard
+
+The system’s integrity rests on:
+
+- evidence validation  
+- case creation  
+- vote mechanics  
+- archival routines  
+
+Future changes must strengthen, not dilute, procedural protections.  
+
+Anything that increases discretion increases the risk of politicization.
 
 ---
 
-## 5) Predictable Escalation
-- Behavior → category → penalty.  
-- Repetition auto-escalates; evasion/tampering trigger higher scrutiny.  
-- Tag-drop remains the only automatic blacklist rule.
+## 3. Keep Governance Lean
+
+The Council must remain small enough to act predictably even during server downturns or leadership absences.  
+
+This principle argues against expanding the number of voting seats and against introducing multi-layered representative hierarchies.
+
+Amendments should avoid structural bloat.
 
 ---
 
-## 6) Public, Timestamped Evidence
-- No DM evidence; no cropped or edited media.  
-- Server Time everywhere.  
-- Invalid evidence = invalid case.
+## 4. Protect Neutral Administrative Layers
+
+Clerks must remain insulated from political incentives.  
+This includes:
+
+- no voting powers  
+- no conflict-of-interest activism  
+- no authority to interpret penalties  
+
+Future design choices must avoid granting Clerks any adjudicatory power.  
+
+Their neutrality is foundational.
 
 ---
 
-## 7) Land is Scheduled, Not Contested
-- L6 rotation is scheduled infrastructure.  
-- Non-Members have no land protection; Associates have L1–L5 only.  
-- Capitol is free combat by consent with restitution rules.
+## 5. Escalation Must Stay Predictable
+
+NAP 9’s escalation rules exist to ensure fairness across cases and reduce bargaining.  
+
+Future systems should preserve:
+
+- automatic tier upgrades  
+- objective triggers  
+- behavior-based judgments  
+
+Avoid amendments that reintroduce intent analysis or create special exceptions.
 
 ---
 
-## 8) Built for Real Behavior
-- Assume people are busy, biased, and occasionally hostile.  
-- Make compliance easy (clear steps, clear penalties).  
-- Archive relentlessly to preserve memory and precedent.
+## 6. Evidence Should Always Be Verifiable and Public
+
+Future changes should not weaken the requirements for:
+
+- public submission  
+- timestamp alignment  
+- uncropped media  
+- transparent preservation  
+
+Private evidence formats undermine system trust.
 
 ---
 
-## 9) Adaptive, Not Chaotic
-- Use notice + supermajority for normal change; emergency amendments expire if not ratified.  
-- Conflict-of-interest rules protect legitimacy.
+## 7. Land Governance Must Not Become Speculative
+
+Protection follows possession to prevent instability.  
+Amendments proposing land rotations, future claims, or eligibility-based guarantees must provide strong justification and undergo careful review.
+
+Land systems are the most likely to destabilize the server if overextended.
 
 ---
 
-## 10) Player-Legible Outputs
-- Quickrefs, macros, and summaries help non-lawyers stay compliant.  
-- Avoid jargon where a simple verb works.
+## 8. Tools Must Support Typical, Not Ideal, Behavior
+
+The system should remain accessible to:
+
+- busy players  
+- inconsistent players  
+- inexperienced diplomats  
+
+Amendments should minimize procedural friction and avoid increasing skill or time requirements.
+
+---
+
+## 9. Adapt, But Avoid Crisis-Legislating
+
+Amendments must arise from consistent need, not from a single crisis event.  
+
+Emergency amendments should remain temporary unless ratified under normal rules.
+
+Avoid permanent rules created in response to one-off incidents.
+
+---
+
+## 10. Preserve Player-Legible Outputs
+
+Even if the covenant grows, its public-facing outputs must remain simple:
+
+- quick references  
+- macros  
+- summaries  
+- clear vote instructions  
+
+System expansion must not make governance inaccessible to non-experts.
+
+---
+
+# Summary
+
+Design principles guide the NAP’s future.  
+
+They ensure amendments reinforce clarity, stability, neutrality, and resilience rather than drifting toward complexity, bias, or overreach.  
+
+They function as the covenant’s long-term compass, defining what the system should become **and** what it should never become.

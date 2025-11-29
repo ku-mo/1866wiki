@@ -6,267 +6,244 @@ slug: /quickref
 ---
 
 # ⚡ NAP 9 — Quick Reference Guide
-_A fast-access operational cheat sheet for Server 1866_
+_A fast-access operational cheat sheet for Server 1866._
 
-This page summarizes **everything you need to function inside NAP 9** without reading the full Covenant.  
-Procedural details, timings, and thresholds are all included on one page.
+This page condenses the **entire NAP 9 workflow** into a single actionable document.  
+
+If you only memorize one page, make it this one.
 
 ---
 
-# 🗂️ Membership Tiers
+# 🧭 Membership Tiers
 
-## 🔵 Full Members (NAP 9)
-- Top 9 alliances by weekly power ranking  
-- 1 Voting Rep + 1 Alternate  
-- Full NAP protection  
-- L1–L6 protection  
-- Voting + rotation rights  
+## 🔵 Full Members (9)
+- Top 9 eligible alliances by weekly power ranking  
+- 1 Voting Representative + 1 Alternate  
+- Full protection for **all lands currently held**  
+- Council voting rights  
 
-## 🟩 Associate Members (Max 7)
-- Opt-in protection  
-- Non-voting  
-- L1–L5 protection  
-- **No L6 rights**  
-- May submit evidence  
+## 🟩 Associate Members (7)
+- Opt-in, non-voting  
+- Protection for **held lands up to Level 5**  
+- Access to evidence submission and announcements  
 
 ## 🟥 Non-Members
-- **No protection**  
-- L6 must be released immediately  
-- L1–L5 may be seized freely  
+- No protection  
+- No case rights  
+- Land conflicts handled outside NAP jurisdiction  
 
 ---
 
-# 🧵 Clerks (Neutral Operators)
+# 🗂️ Clerks (Neutral Operators)
 
-## Responsibilities
+## What Clerks Do
 - Validate evidence  
 - Assign Case IDs  
 - Log cases in `#case-log`  
-- Open/close votes  
-- Verify timestamps  
+- Open + close vote windows  
+- Track timelines  
 - Maintain archives  
+- Run appeals intake + investigations  
 
-## Clerk Count  
-- **3 total**, each from a different NAP 9 alliance  
+## Requirements
+- Always neutral  
+- No classification authority  
+- Three Clerks from **different Full Member alliances**
 
 ---
 
-# 🗳️ Voting & Quorum
+# 🗳️ Voting System (Simple Version)
 
-## Quorum
-- **5 of 9** votes (YES / NO / ABSTAIN)
+## How a Vote Works
+- Every Full Member gets **one vote**.
+- A vote only “counts” once **5 people have voted anything** (YES / NO / ABSTAIN). When you hit that minimum, it is called a "quorum".
 
-## Thresholds
-- **Simple Majority:** 5 YES  
-- **Supermajority:** 7 YES  
+## What the Results Mean
+- **5 YES** → the decision passes (normal cases)
+- **7 YES** → the decision passes only for very big actions (blacklists, amendments, expulsions)
 
-## Vote Windows
-- **24h** — Amendments, appeals, blacklists, expulsions  
-- **16h** — Diplomacy rulings, moderate penalties  
-- **8h** — Emergencies, L6 seizures, active attacks  
+## Time Limits
+- **24h** — big decisions  
+- **16h** — normal decisions  
+- **8h** — emergencies  
 
-## Notes
-- Abstain counts toward quorum  
-- Absence does not  
-- If all 9 votes come in early → vote closes immediately  
+If all 9 reps vote early → vote ends immediately.
+
+## What the Vote Options Mean
+- **YES** → approve  
+- **NO** → reject  
+- **ABSTAIN** → “I’m here, but staying neutral” (counts for starting the vote)  
+- **ABSENT** → no vote at all (does *not* count)
+
+## Extra Rules
+- Votes cannot be changed once posted.
+- Missing too many votes triggers participation review.
 
 ---
 
 # 🧾 Evidence Rules
 
-## Submit To:
+## Submit to:
 `NAP Discord → #evidence`
 
-## Must Include:
-- Screenshot/video  
-- Timestamp (Server Time preferred)  
+## Must include:
+- Screenshot/video (uncropped when possible)  
+- Server Time or corroborated timestamp  
 - Offender + affected players  
-- ≤3 sentence summary  
-- Diplomacy logs if required  
+- ≤3 sentence description  
+- Diplomacy logs (if required for that rule)  
+- Loss/damage summary when relevant  
 
-## Invalid Evidence:
-- Edited or cropped  
-- Hearsay  
+## Invalid evidence:
+- edited/manipulated  
+- cropped to hide context  
+- unverifiable/hearsay  
 - Discord DMs  
-- AI images  
-- Missing timestamps (unless corroborated)  
+- AI-generated images  
+- missing required items after correction window  
 
-## Correction Window:
-- Clerk may request fixes  
-- Submitter has **6 hours**  
+## Correction window:
+- **6 hours** (Clerks may extend to 12–24h for time zones)  
 
 ---
 
-# 🛠️ Case Workflow (Mandatory)
+# 🔄 Case Workflow (Mandatory Sequence)
 
-> **Council cannot act until Step 3 is completed.**
+> **Council cannot act until Step 3 is complete.**
 
 1. **Notification**  
-   - Any platform  
-   - Not evidence  
+   - Any platform; “heads up” only  
+   - Does **not** create a case  
 
 2. **Evidence Submission**  
    - Must be posted in `#evidence`  
 
 3. **Clerk Log Entry**  
-   - Case ID assigned  
+   - Case ID created  
    - Logged in `#case-log`  
-   - Marked ACTIVE  
+   - Marked **ACTIVE**
 
 ---
 
 # ⚖️ Offense Categories
 
-## 🟨 Minor
-- Accidental, low-impact  
-- Examples: accidental tile hit, minor chat issues  
+NAP 9 categorizes behavior — not intent.
+
+## 🟨 Minor (low impact)
+- accidental, isolated, low loss  
 
 **Penalties:**  
-- Warning  
-- Restitution  
+- warning  
+- restitution  
 - 24–48h Probation  
 
-**Escalation:**  
-- 2nd Minor in 14 days → **Moderate**
+**Auto-escalation:**  
+- 2 Minors in 14 days → **Moderate**
 
 ---
 
-## 🟧 Moderate
-- Repeated or harmful actions  
-- Examples: repeated plundering, diplomacy refusal  
+## 🟧 Moderate (repeated or disruptive)
+- repeated actions  
+- pattern of negligence  
+- failure to complete diplomacy when required  
 
 **Penalties:**  
-- Restitution  
+- restitution  
 - 48–72h Combat Restriction  
-- Rotation suspension  
 - 14-day Watchlist  
 
-**Escalation:**  
-- 2nd Moderate in 30 days → **Severe**
+**Auto-escalation:**  
+- 2 Moderates in 30 days → **Severe**
 
 ---
 
-## 🟥 Severe
-- High-impact, malicious, or destabilizing  
-- Examples: L6 theft, cross-server collusion, evidence tampering  
+## 🟥 Severe (high impact or systemic threats)
+- coordinated harm  
+- cross-server collusion  
+- evidence tampering  
+- penalty evasion  
+- targeted harassment  
 
 **Penalties (Simple Majority):**  
 - 72h ban  
 - 7-day ban  
-- Restitution  
+- restitution  
 
 **Penalties (Supermajority):**  
-- Permanent blacklist  
-- Alliance sanctions  
-- Rotation removal  
-- NAP expulsion  
-
----
-
-# 🟥 Tag-Dropping System (Automatic)
-
-## Instance 1
-- **48h ban**, untagged  
-- No alliance may shelter them  
-
-## Instance 2
-> **Automatic permanent blacklist**  
-Reversible only by Supermajority.
+- permanent blacklist  
+- alliance sanctions or expulsion  
 
 ---
 
 # 🛡️ Harboring Rule
-If an alliance shelters:
 
-- a banned player  
+Harboring includes sheltering:
+
 - a blacklisted player  
 - a penalty evader  
+- a banned player avoiding enforcement  
 
-They lose **all NAP protection immediately**  
-(and rotation rights until compliance confirmed).
+## Consequences
+- Immediate loss of **all NAP protection**  
+- Restored only when compliance is confirmed  
 
-**Definition & Grace Window**
-- Harboring applies once leadership is officially notified (Clerk post in `#case-log` or direct Clerk ping).  
-- Alliance has **up to 4 hours** from notice to remove the player; self-report and immediate kick is expected.
-
----
-
-# 🗺️ Land Rules (Fast Version)
-
-## L6 Rotation
-- Rotates weekly among **Top 3**  
-- Sunday @ 12:00 ST  
-- Temporary drops must be honored  
-- Must be picked up within **4 hours**
-
-## Associate Members
-- May NOT hold L6  
-- Must release if becoming Associate
-
-## Non-Members
-- Must release L6 immediately  
-- L1–L5 can be taken freely  
+## Grace Window
+- Begins once a Clerk notifies leadership  
+- Alliance has **4 hours** to remove the player  
 
 ---
 
-# 🗃️ Appeals ( >48h penalties only )
+# 🗺️ Land Rules
 
-## Filing Window
-- Within **48 hours**  
+- Protection applies only to **lands held at the moment of the incident**   
+- Associates protected only up to **L5**  
+- Non-Member lands = no protection  
+
+---
+
+# 📝 Appeals
+
+## Eligibility
+- Penalties longer than 48 hours  
+- One appeal per player/alliance per 30 days  
 
 ## Process
-1. Appeal posted in `#appeals`  
-2. Clerk validates  
+1. Appeal posted in `#appeals` (within 48h)  
+2. Clerk validates completeness  
 3. Investigative Review (24h)  
-4. Council vote (24h long window)
+4. Council 24h vote  
 
 ## Outcomes
-- **Simple Majority (5 YES):** reduce  
-- **Supermajority (7 YES):** overturn  
-- Otherwise: denied  
+- **5 YES → reduction**  
+- **7 YES → overturn**  
+- Anything else → denied  
 
 ---
 
 # 📉 Participation Rules
 
-In 14 days:
+In any 14-day period:
 
 - Miss **2 emergency votes** → review  
 - Miss **3 total votes** → review  
 
-Penalties may include:
-
-- rotation suspension  
+Possible outcomes:
 - downgrade to Associate  
 - temporary loss of voting rights  
 
 ---
 
-# 🔍 Quick Definitions
+# 📌 Who to Contact
 
-- **Probation:** no PvP outside Capitol  
-- **Combat Restriction:** cannot attack except Capitol  
-- **Severe Review:** heightened monitoring  
-- **Case ID:** unique identifier assigned by Clerk  
-- **Active Case:** Council may act  
-- **Consolidated Case:** merged incidents  
+- Your Alliance’s Voting Representative  
+- Your Alternate Delegate  
+- Any Clerk (for procedural questions only)  
+- `#nap-announcements` for official rulings  
 
 ---
 
-# 📌 Contact Pathways
+# 🏁 Summary Loop
 
-For issues, contact:
+**Notify → Evidence → Clerk Log → Vote → Penalty/Appeal → Archive**
 
-- Your alliance’s Voting Rep  
-- Your alliance’s Delegate  
-- Any Clerk (procedural only)  
-
----
-
-# 🏁 Summary
-
-NAP 9’s core loop:
-
-**Report → Evidence → Clerk Log → Vote → Penalty/Appeal → Archive**
-
-Everything revolves around procedural correctness, participation, and predictable enforcement.
+NAP 9 functions by following this loop every time, without exceptions.

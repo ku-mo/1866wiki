@@ -26,7 +26,6 @@ const sidebars = {
         "nap9/nap9-voting",
         "nap9/nap9-offenses",
         "nap9/nap9-escalation",
-        "nap9/nap9-tagdrop",
         "nap9/nap9-land",
         "nap9/nap9-case-processing",
         "nap9/nap9-appeals",
@@ -44,6 +43,7 @@ const sidebars = {
         "guides/guide-council",
         "guides/guide-delegates",
         "guides/guide-new-alliance",
+        "guides/guide-discord-server",
       ],
     },
 

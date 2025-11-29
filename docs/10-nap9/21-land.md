@@ -1,57 +1,122 @@
 ---
 id: nap9-land
-title: Land Governance
+title: Title 9 — Land Governance
 sidebar_label: Land Governance
 sidebar_position: 21
-description: Rules for L1–L5 land protection, L6 rotation, and Non-Member land forfeiture.
+description: Rules governing the protection of lands held by NAP members and the process for resolving land disputes.
 slug: /nap9-land
 ---
 
-# Land Governance
-Land is a regulated resource. Diplomacy and rotation are mandatory; surprise takeovers are violations.
+# Title 9 — Land Governance {#t9}
+
+Land governance defines how NAP 9 recognizes, protects, and adjudicates disputes involving lands that members currently hold.  
+NAP protection follows **possession**, not potential claims, intended ownership, or historical use.
 
 ---
 
-## General Principles
-- Lands are treated as **settled holdings**.  
-- Aggressive theft without process is a Severe Offense.  
-- Server Time applies to all land deadlines.
+## ⚖️ Definitions
+
+| Term | Definition |
+|------|------------|
+| **Land** | Any capturable or holdable in-game territory, including but not limited to L1–L6 resource zones or capitals. |
+| **Held Land** | Land that an alliance currently occupies or controls at the moment an incident occurs. |
+| **Interference** | Any action that disrupts, damages, or obstructs an alliance’s ability to maintain its held land. |
+| **Restitution** | A corrective action ordered by the Council to restore loss, return land, or offset harm caused by interference. |
+| **Handoff** | A Council-directed transfer of land from one alliance to another in order to resolve a conflict or fulfill a ruling. |
 
 ---
 
-## Level 6 (L6) Rotation
-- 3 L6 lands rotate weekly among the **Top 3 alliances** by power ranking.  
-- Snapshot taken **1 hour before VS Day 6 reset** (Clerk or any NAP 9 leader/delegate if no Clerk).  
-- Rotation occurs **Sunday @ 12:00 ST**, clockwise.  
-- Temporary drops must be honored; pickup required within **4 hours**.  
-- Holding a temporary drop is a Moderate Offense and may escalate.
+## Article I — General Principles {#t9-art1}
+
+### Section I — Possession-Based Protection {#t9-art1-sec1}
+NAP 9 protects **only the land an alliance currently holds** at the time of an alleged incident.  
+Protection does **not** extend to:
+
+- future intended expansion  
+- historical ownership  
+- claims based on precedent  
+- lands lost before a case is filed
+
+### Section II — Interference with Held Land {#t9-art1-sec2}
+Interference with held land may be classified into an offense tier through the case system.  
+Statutes determine the tier; the Council determines the outcome.
+
+### Section III — Council Authority {#t9-art1-sec3}
+When a land dispute is validated, the Council may:
+
+- order restitution  
+- authorize or deny handoffs  
+- direct corrective actions  
+- determine fault and classification  
+- refer complex cases to escalation (Title 8)
+
+The Council does **not** intervene in hypothetical, speculative, or unprovable land disputes.
 
 ---
 
-## Full Members
-- Protected for L1–L5; eligible for L6 rotation.  
-- Must honor drops and coordinate transfers.  
-- L6 violations can be Moderate or Severe depending on intent.
+## Article II — Full Members {#t9-art2}
+
+### Section I — Protections {#t9-art2-sec1}
+Full Members receive NAP protection for **any land they currently hold**, regardless of level.
+
+### Section II — Dispute Handling {#t9-art2-sec2}
+Incidents involving interference with Full Member lands:
+
+- may be filed as cases  
+- must meet evidence requirements (Title 5)  
+- may result in classification and Council-directed remedies
+
+### Section III — Council Remedies {#t9-art2-sec3}
+Upon proof of interference, the Council may:
+
+- affirm the Full Member’s right to the land  
+- order restitution of resources or position  
+- mandate or forbid handoffs  
+- issue corrective rulings under their authority
+
+Remedies depend on classification and context; penalties are defined in Title 9.
 
 ---
 
-## Associate Members
-- Protected for L1–L5.  
-- **May not** hold L6; must release any L6 immediately upon becoming Associate.  
-- May claim restitution for L1–L5 violations; no rotation participation.
+## Article III — Associate Members {#t9-art3}
+
+### Section I — Protections {#t9-art3-sec1}
+Associate Members receive NAP protection for **land up to Level 5** that they currently hold.
+
+Level 6 lands are **not** protected for Associate Members.
+
+### Section II — Filing Rights {#t9-art3-sec2}
+Associates may:
+
+- submit evidence  
+- open land disputes through the case system  
+- request restitution or corrective rulings
+
+Associates **do not** possess:
+
+- Council vote  
+- the authority to compel handoffs except by Council decision
+
+### Section III — Remedies {#t9-art3-sec3}
+Upon validation, the Council may provide Associate Members with the same range of remedies available to Full Members, except where restricted by membership status.
 
 ---
 
-## Non-Members
-- **No land protection.**  
-- **L6 must be released immediately**; Council may authorize forced seizure with compulsory participation by NAP 9 beneficiaries.  
-- L1–L5 may be seized freely; no evidence or penalties apply to attackers.
+## Article IV — Non-Members {#t9-art4}
+
+### Section I — No Protections {#t9-art4-sec1}
+Non-Members receive **no protection** for any land they hold.
+
+### Section II — Outside Jurisdiction {#t9-art4-sec2}
+Land disputes involving Non-Members:
+
+- are not subject to NAP protection  
+- do not qualify for evidence cases  
+- do not require Council involvement  
+- may be handled by any parties through gameplay without NAP consequences
+
+The Council may still rule on matters indirectly involving Non-Members if a Member is harmed.
 
 ---
 
-## Capitol Zone Combat Rules
-Capitol mud + resource tiles are **free combat zones with mutual consent**.
-
-- Without agreement, hitting a gathering tile requires an equal-power restitution hit on your own squad (“eye for an eye”).  
-- Capitol combat does **not** justify retaliation outside Capitol.  
-- Normal evidence standards apply for disputes.***
+_Last amended by Council vote \[insert date\]._

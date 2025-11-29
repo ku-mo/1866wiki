@@ -3,139 +3,146 @@ id: intro
 title: "Welcome to NAP 9"
 sidebar_label: "Introduction"
 sidebar_position: 1
-description: "Overview of the NAP 9 governance system for Server 1866 — a structured, procedural, and participation-driven framework for diplomacy and alliance coordination."
+description: "A friendly overview of the NAP 9 system — what it is, why it exists, and how it keeps Server 1866 stable."
 slug: /intro
 ---
 
 # 🛡️ Welcome to **NAP 9**
+### The governance system powering Server 1866
 
-### The Governance Engine of Server 1866
+NAP 9 is the new diplomatic engine of the server. It is a structured, predictable, and transparent system built to replace the improvised chaos and stalled decisions of the old NAP 15 era.
 
-NAP 9 is a response to the litany of issues presented by NAP 15's failures. 
+It gives alliances:
+- **clear protections**,  
+- **consistent rules**, and  
+- **a functioning Council that actually votes and resolves disputes.**
 
-This NAP establishes a clear, structured, and dependable framework for diplomacy, conflict resolution, and alliance cooperation.
+NAP 9 isn’t just a pact! It's an institution with Clerks, Delegates, procedures, evidence standards, and defined expectations for participation.
 
-It moves Server 1866 away from improvised reactions and toward a predictable, accountable, and sustainable system.
+The Covenant appears expansive at first glance, but it is very manageable when one focuses only on the parts that pertain to an individual's specific role in the NAP.
 
-NAP 9 is not a passive pact, it is an institution with Clerks, Delegates, defined procedures, and real expectations for participation.
-
-If your alliance seeks stability, fairness, and reliable governance, this system was created as a love letter to you.
-
----
-
-## ⭐ What Makes NAP 9 Strong
-
-### **🗂️ Clerkship System, the Backbone of Fair Process**
-NAP 9 introduces **neutral Clerks** who ensure all cases follow the same path:
-
-- verifying evidence  
-- opening and closing vote windows  
-- maintaining archives  
-- ensuring procedural correctness  
-
-You should not have be an expert in Discord operations to be an R5 of an alliance in Last War.
-
-This feature removes the headache of administrative burden from busy alliance leadership and keeps the judicial process consistent, fair, and transparent.
+If your alliance wants stability, fairness, and a calm diplomatic environment, this system is built for you.
 
 ---
 
-### **👥 Delegate Structure, Flexible Representation**
-Every Full Member alliance appoints:
+## ⭐ What Makes NAP 9 Different?
 
-- one voting representative  
-- one alternate delegate  
+### **🗂️ Neutral Clerks = fair, consistent process**
+Clerks run the procedural backbone of the NAP. They handle:
 
-This guarantees:
-- no silent seats  
-- progress even when leaders are busy  
-- shared accountability  
-- stable, continuous involvement in Council operations  
+- evidence validation  
+- case creation + IDs  
+- vote windows  
+- archives  
+- timeline enforcement  
 
-NAP 15 required every R5 to be present for all matters of activity, but that isn't realistic to how alliance leadership is structured. This system gives relief through much needed flexibility.
+R5s no longer need to manage Discord logistics or argue over formatting.  
+
+Clerks make the process uniform so every alliance is treated the same.
 
 ---
 
-### **🔢 Quorum & Voting System**
-A Quorum is the minimum number of Council members that must be present to conduct Council activities, such as voting.
+### **👥 Delegates = no more silent seats**
+Every Full Member alliance designates:
 
-NAP 9 uses a asynchronous quorum model so Council activity continues across timezones and schedules.
+- **1 Voting Representative**  
+- **1 Alternate Delegate**
 
+This guarantees coverage across time zones and real-life schedules.  
+
+NAP 15 collapsed because half the Council was asleep, missing, or busy.  
+
+NAP 9 fixes that through simple, flexible representation.
+
+---
+
+### **🕒 Asynchronous Voting That Actually Works**
+NAP 9 uses time-zone-friendly vote windows:
+
+- **24 hours** – amendments, appeals, major actions  
+- **16 hours** – standard cases and diplomacy  
+- **8 hours** – emergencies (active aggression, land crises)
+
+With:
 - **Quorum:** 5 of 9  
 - **Simple Majority:** 5 YES  
 - **Supermajority:** 7 YES  
-- **Vote Windows:** 24h / 16h / 8h  
-- **Abstain:** counts toward quorum  
-- **Full participation:** closes votes early  
-  
-The system fixes MANY problems caused by NAP 15 which made voting feel pointless and inaccessible.
+- **ABSTAIN counts for quorum**  
+- **Votes lock once posted**
+
+:::info Early Voting
+If all 9 votes arrive early → the window closes early.  
+:::
+
+The result is fast, consistent decision-making without burnout.
 
 ---
 
-### **⚖️ Disciplinary Framework for Clear, Predictable Outcomes**
-Incidents are categorized:
+### **⚖️ Clear, Tiered Case System**
+Every incident falls into a behavioral tier:
 
-- **Minor** — low-impact, accidental  
-- **Moderate** — repeated or harmful  
-- **Severe** — high-impact or malicious  
-- **Tag-Drop** — automatic escalation to blacklist rules  
+- **Minor** — accidental, low impact  
+- **Moderate** — disruptive or repeated  
+- **Severe** — high impact, coordinated, or malicious  
+- **Escalation** — evasion, tampering, or repeated offenses  
 
-Each tier uses standardized penalties and escalation.  
+Each tier has predictable rules for escalation and review.  
 
-No guesswork. No improvisation. No politics.
-
----
-
-## 🎯 What NAP 9 Is Designed To Provide
-
-NAP 9 expects:
-
-- active diplomacy  
-- timely votes  
-- awareness of ongoing cases  
-- responsibility in representation  
-- engagement from participating alliances  
-
-In return, it delivers:
-
-- stable land governance  
-- consistent treatment of all alliances  
-- reliable conflict handling  
-- strong protections for compliant members  
-- meaningful structure for server-wide cooperation  
-
-Alliances who contribute to stability receive full benefits.  s
-
-Alliances who disengage lose privileges by design. Alliances who have been long unresponsive to diplomatic conversations can no longer remain silent AND benefit from the NAP.
+No guesswork. No vibe-based penalties. No secret back-channel deals.
 
 ---
 
-## 🌐 Who Benefits From NAP 9?
+## 🎯 What NAP 9 Delivers
 
-NAP 9 is built for alliances that value:
+### For participating alliances:
+- 🛡️ **Protected land** (Full Members: all levels; Associates: up to L5)  
+- 📚 **Fair case handling** through neutral Clerks  
+- ⚙️ **Predictable conflict resolution**  
+- 🤝 **Stable diplomacy** with clear expectations  
+- 🗳️ **Real governance** with functioning votes and timelines  
+
+### For the server:
+- less random conflict  
+- faster decision-making  
+- lower diplomatic noise  
+- higher accountability  
+- a shared reference point for disputes  
+
+This system rewards alliances that stay engaged and follow procedure.  
+
+Silence and non-participation no longer receive the same benefits.
+
+---
+
+## 🌐 Who Should Join NAP 9?
+
+NAP 9 is ideal for alliances that want:
 
 - fairness  
-- predictability  
+- protection  
 - clarity  
-- structured communication  
-- consistent protection under shared rules  
+- stability  
+- equal treatment  
+- predictable diplomacy  
+- rules that don’t change on a whim  
 
-If your alliance wants reliable diplomacy and equal treatment, this system supports that.
+If your alliance values order over chaos, NAP 9 is designed for you.
 
 ---
 
-## 📘 Explore the Documentation
+## 📘 Explore the NAP 9 Docs
 
-### **➡️ The NAP 9 Covenant**  
-The full governance charter: rules, penalties, and procedures.
+### **➡️ The Covenant**  
+The full rulebook: membership, land protection, evidence, escalations, voting, amendments.
 
 ### **➡️ Operational Guides**  
-Step-by-step instructions for Clerks, Council Members, and Delegates.
+How to perform your role as a Clerk, Council Member, or Delegate.
 
-### **➡️ Philosophy & Rationale**  
-Why the system works the way it does — and how it reinforces 1866’s long-term stability.
+### **➡️ Philosophy**  
+Why NAP 9 works the way it does — and how it stays stable over time.
 
 ---
 
-### 🛡️ NAP 9 is a governance system built for participation, clarity, and fairness.
+## 🛡️ NAP 9 is the system that keeps Server 1866 predictable, stable, and fair.
 
-For questions, contact your Council representative or the authors directly.
+If you have questions, reach out to any Council representative or Clerk.

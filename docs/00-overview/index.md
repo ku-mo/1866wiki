@@ -27,7 +27,7 @@ Use this page as a tree to hop anywhere quickly.
 - [Voting](/docs/nap9-voting)
 - [Offenses](/docs/nap9-offenses)
 - [Escalation](/docs/nap9-escalation)
-- [Tag-Drop System](/docs/nap9-tagdrop)
+- [Tag Policy (Reserved)](/docs/nap9-tag)
 - [Land Governance](/docs/nap9-land)
 - [Case Processing](/docs/nap9-case-processing)
 - [Appeals](/docs/nap9-appeals)
