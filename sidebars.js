@@ -6,9 +6,10 @@ const sidebars = {
       label: "Overview",
       link: { type: "generated-index" },
       items: [
+        "overview/index",
         "overview/intro",
         "overview/quickref",
-        "overview/faq"
+        "overview/faq",
       ],
     },
 

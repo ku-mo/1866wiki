@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: '1866.wiki',
   tagline: 'A Love Letter in Governance to the 1866 Community',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -65,18 +65,19 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {
-        respectPrefersColorScheme: true,
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
       navbar: {
         title: '1866.wiki',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/shield-lion-svgrepo-com.svg',
+          alt: 'NAP IX',
+          src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'docs',
+            to: '/docs',
             position: 'left',
             label: 'NAP',
           }
@@ -90,7 +91,7 @@ const config = {
             items: [
               {
                 label: 'NAP',
-                to: '/docs/category/overview',
+                to: '/docs/overview',
               },
             ],
           },

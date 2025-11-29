@@ -21,3 +21,15 @@
   align-items: center;
   justify-content: center;
 }
+
+.logoRow {
+  display: flex;
+  justify-content: center;
+  margin: 0rem;
+}
+
+.logo {
+  width: clamp(14rem, 30vw, 22rem);
+  height: clamp(14rem, 30vw, 22rem);
+  fill: currentColor;
+}

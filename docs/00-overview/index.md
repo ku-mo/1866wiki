@@ -1,50 +1,57 @@
 ---
-id: overview-index
+id: index
 title: Overview
 sidebar_label: Overview
 sidebar_position: 0
-description: One-page tree of the NAP 9 documentation.
-slug: /overview
+description: A single-page map of all NAP 9 documentation.
+slug: /index
 ---
 
-# Documentation Map
-Use this page as a tree to hop anywhere quickly.
+# 📚 Documentation Overview  
+A complete, one-page navigation tree for the entire NAP 9 system.
 
 ---
 
-## Overview
-- [Introduction](/docs/intro)
-- [Quick Reference](/docs/quickref)
-- [FAQ](/docs/faq)
+## 🚀 Start Here
+- [🛡️ Introduction](/docs/intro)
+- [⚡ Quick Reference](/docs/quickref)
+- [❓ FAQ](/docs/faq)
 
-## NAP 9 Covenant
-- [Introduction](/docs/nap9-introduction)
-- [Membership](/docs/nap9-membership)
-- [Council](/docs/nap9-council)
-- [Clerks](/docs/nap9-clerks)
-- [Communication](/docs/nap9-communication)
-- [Evidence](/docs/nap9-evidence)
-- [Voting](/docs/nap9-voting)
-- [Offenses](/docs/nap9-offenses)
-- [Escalation](/docs/nap9-escalation)
-- [Tag Policy (Reserved)](/docs/nap9-tag)
+---
+
+## 📜 NAP 9 Covenant (Full Ruleset)
+- [Overview & Purpose](/docs/nap9-introduction)
+- [Membership Structure](/docs/nap9-membership)
+- [Council Framework](/docs/nap9-council)
+- [Clerk Responsibilities](/docs/nap9-clerks)
+- [Communication Protocols](/docs/nap9-communication)
+- [Evidence Standards](/docs/nap9-evidence)
+- [Voting System](/docs/nap9-voting)
+- [Offense Categories](/docs/nap9-offenses)
+- [Escalation Rules](/docs/nap9-escalation)
 - [Land Governance](/docs/nap9-land)
 - [Case Processing](/docs/nap9-case-processing)
-- [Appeals](/docs/nap9-appeals)
+- [Appeals Process](/docs/nap9-appeals)
 - [Opt-Outs & Expulsions](/docs/nap9-optout-expulsion)
-- [Amendments](/docs/nap9-amendments)
+- [Amendment Procedures](/docs/nap9-amendments)
 
-## Guides
+---
+
+## 🧭 Operational Guides
 - [Clerk Guide](/docs/guide-clerks)
-- [Council Guide](/docs/guide-council)
+- [Council Member Guide](/docs/guide-council)
 - [Delegate Guide](/docs/guide-delegates)
 - [New Alliance Guide](/docs/guide-new-alliance)
 
-## Philosophy
-- [NAP 9 Philosophy](/docs/philosophy-core)
+---
+
+## 🧠 Philosophy & Theory
+- [Core Philosophy](/docs/philosophy-core)
 - [Governance Theory](/docs/philosophy-governance)
 - [Design Principles](/docs/philosophy-design)
 
-## Meta
+---
+
+## 🛠️ Meta
 - [Changelog](/docs/meta-changelog)
 - [Credits](/docs/meta-credits)
