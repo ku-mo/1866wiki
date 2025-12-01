@@ -37,10 +37,16 @@ A complete, one-page navigation tree for the entire NAP 9 system.
 
 ---
 
+## Scenarios
+- [Council Inception](/docs/council-inception)
+
+---
+
 ## 🧭 Operational Guides
+- [Player Guide](/docs/guide-player)
 - [Clerk Guide](/docs/guide-clerks)
 - [Council Member Guide](/docs/guide-council)
-- [Delegate Guide](/docs/guide-delegates)
+- [Alternate's Quickref Guide](/docs/guide-alternates)
 - [New Alliance Guide](/docs/guide-new-alliance)
 - [Discord Server Guide](/docs/guide-discord-server)
 
@@ -50,6 +56,7 @@ A complete, one-page navigation tree for the entire NAP 9 system.
 - [Core Philosophy](/docs/philosophy-core)
 - [Governance Theory](/docs/philosophy-governance)
 - [Design Principles](/docs/philosophy-design)
+- [Complaints](/docs/philosophy-complaints)
 
 ---
 

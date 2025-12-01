@@ -174,4 +174,4 @@ Archives must remain accessible to all Full Member R5s.
 
 ---
 
-_Last amended by Council vote \[insert date\]._
+_Last amended by Council vote \[not amended\]._

@@ -187,7 +187,7 @@ Your neutrality is your shield.
 - Escalate to Council if they pressure or obstruct you  
 - Use the macro:
 
-**“I cannot engage in this discussion. Please direct governance concerns to the Council.”**
+`I cannot engage in this discussion. Please direct governance concerns to the Council.`
 
 Never debate outcomes. Never justify decisions beyond procedure.
 
@@ -231,7 +231,7 @@ If tampering is suspected:
 Appeals require rigorous neutrality.
 
 ### Step 1 — Validate Eligibility
-Appealable only if penalty >48 hours or permanent.  
+A case is appealable only if penalty >48 hours or permanent.  
 Assign **6h correction window** for missing items.
 
 ### Step 2 — Assign Appeal ID

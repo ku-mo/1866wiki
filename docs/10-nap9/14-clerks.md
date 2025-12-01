@@ -85,7 +85,7 @@ An applicant for Clerk must:
 - Be a member of a NAP 9 alliance but **not** an R5, Voting Representative, or Council Alternate.  
 - Not share an alliance with any sitting Clerk.  
 - Have **no penalties** in the last thirty (30) days.  
-- Be demonstrably impartial and reliable.  
+- Behave reliably with reasonable impartiality.  
 - Be literate in Discord usage, including file handling, timestamps, and channel navigation.  
 - Be capable of responding promptly during active cases.
 
@@ -189,4 +189,4 @@ Whichever occurs first.
 
 ---
 
-_Last amended by Council vote \[insert date\]._
+_Last amended by Council vote \[not amended\]._

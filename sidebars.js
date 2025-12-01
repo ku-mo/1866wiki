@@ -34,15 +34,23 @@ const sidebars = {
         "nap9/nap9-amendments",
       ],
     },
-
+    {
+      type: "category",
+      label: "Scenarios",
+      link: { type: "generated-index" },
+      items: [
+        "scenarios/council-inception",
+      ],
+    },
     {
       type: "category",
       label: "Operational Guides",
       link: { type: "generated-index" },
       items: [
+        "guides/guide-player",
         "guides/guide-clerks",
         "guides/guide-council",
-        "guides/guide-delegates",
+        "guides/guide-alternate",
         "guides/guide-new-alliance",
         "guides/guide-discord-server",
       ],
@@ -56,6 +64,7 @@ const sidebars = {
         "philosophy/philosophy-core",
         "philosophy/philosophy-governance",
         "philosophy/philosophy-design",
+        "philosophy/philosophy-complaints",
       ],
     },
 

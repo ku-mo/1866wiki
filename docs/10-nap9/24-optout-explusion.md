@@ -10,6 +10,7 @@ slug: /nap9-optout-expulsion
 # Title 12 — Opt-Outs & Expulsions {#t12}
 
 This Title governs how alliances voluntarily withdraw from NAP 9, how they may be expelled, and the conditions for potential reinstatement.  
+
 Departing alliances immediately lose all protections and procedural rights under NAP 9.
 
 ---
@@ -125,4 +126,4 @@ Land disputes involving departed alliances are:
 
 ---
 
-_Last amended by Council vote \[insert date\]._
+_Last amended by Council vote \[not amended\]._

@@ -12,6 +12,15 @@ Major documentation milestones, website changes, and Covenant revisions.
 
 ---
 
+## v0.2.1 — Scenario Additions, Fine-tuning
+- Various formatting tweaks and language clarification.
+- Added "Scenarios" section with "Council Inception".
+- Added "Player's Guide" to supplement quickref.
+- Added "Complaints" section to Philosophy to help address anticipated concerns.
+
+
+---
+
 ## v0.2.0 — Overhaul, Preamble, Title Renumbering
 - Removed L6 Land eigibility and rotations.
 - Removed tag-dropping rules.

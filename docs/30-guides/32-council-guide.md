@@ -86,11 +86,11 @@ When a case goes live, follow this exact sequence.
 A case becomes active when a Clerk posts it in `#case-log` with:
 
 - Case ID  
-- timestamp  
-- reporting alliance  
-- offender(s)  
-- summary  
-- preliminary classification  
+- Timestamp  
+- Reporting alliance  
+- Offender(s)  
+- Summary  
+- Preliminary Classification  
 - **Status: ACTIVE**
 
 Do not begin deliberation or voting before this appears.
@@ -99,23 +99,23 @@ Do not begin deliberation or voting before this appears.
 
 For each case:
 
-1. Open the Case ID post in `#case-log`.  
+1. Reference the Case ID post in `#case-log`.  
 2. Follow the evidence link(s) in `#evidence`.  
-3. Confirm you understand:  
+3. If discussing, confirm you understand:  
    - what happened  
    - who was involved  
    - when it occurred (Server Time)  
-4. If something is unclear procedurally (missing timestamp, broken link, etc.), ask a **Clerk** for clarification—not the reporter.
+4. If something is unclear procedurally (missing timestamp, broken link, etc.), ask a **Clerk** for clarification (not the reporter).
 
 Example prompt:
-> “Requesting clarification on timestamps for C-YYMMDD-01. I cannot see ST in the screenshot.”
+> “Requesting clarification on timestamps for C-YYMMDD-01. I cannot see time in the screenshot.”
 
 ## 4.3 Classification and Discussion
 
 Using the Offense Categories and Escalation logic:
 
-- map behavior to **Minor / Moderate / Severe**  
-- consider mitigation and aggravation factors as defined in the covenant  
+- map behavior to **Minor / Moderate / Severe**
+- consider mitigation and aggravation factors as defined in the covenant
 - keep discussion in `#nap-council-chat` short and rule-based
 
 Good discussion focuses on:
@@ -127,16 +127,16 @@ Good discussion focuses on:
 
 Avoid:
 
-- debates about personality or history  
-- speculative intent analysis  
+- debates about personality or history
+- speculative intent analysis
 - arguments about who “deserves” leniency outside defined mitigation rules
 
 ## 4.4 Voting
 
 Once you are ready:
 
-- cast a vote in `#nap-votes` under the correct case  
-- use explicit, unambiguous text (see Section 5)
+- cast a vote in `#nap-votes` under the correct case
+- use explicit, unambiguous text (see Section 5 below)
 
 After voting, do **not** attempt to change your vote. Votes are locked by rule.
 
@@ -150,15 +150,15 @@ Votes must be machine-readable and unambiguous.
 
 Use this structure:
 
-- `[TAG] — YES`  
-- `[TAG] — NO`  
-- `[TAG] — ABSTAIN`
+- `CASEID [TAG] YES`  
+- `CASEID [TAG] NO`  
+- `CASEID [TAG] ABSTAIN`
 
 Examples:
 
-- `GMOB — YES`  
-- `BZST — NO`  
-- `RFW — ABSTAIN`
+- `C-251202-01 [GMOB] YES`  
+- `C-251202-01 [BZST] NO`  
+- `C-251202-01 [RFW] ABSTAIN`
 
 Reactions, emojis, or phrases like “I lean yes” are **not** votes.
 

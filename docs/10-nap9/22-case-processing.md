@@ -271,3 +271,7 @@ Once ACTIVE:
 
 ## Article VII — Case Closure & Archival {#t10-art7}
 A case closes when penalties are issued, dismissed, or appeals finish. Clerks mark **Resolved/Dismissed/Archived**, record timestamps, update offender history for escalation tracking, and move the record to archives.***
+
+---
+
+_Last amended by Council vote \[not amended\]._

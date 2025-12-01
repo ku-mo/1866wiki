@@ -119,4 +119,4 @@ The Council may still rule on matters indirectly involving Non-Members if a Memb
 
 ---
 
-_Last amended by Council vote \[insert date\]._
+_Last amended by Council vote \[not amended\]._

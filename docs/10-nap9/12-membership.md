@@ -9,11 +9,11 @@ slug: /nap9-membership
 
 # Title 1 — Membership {#t1}
 
-> **TL;DR**  
+:::info Basics
 > NAP 9 divides all alliances into three categories.  
 > Each state carries specific rights, protections, and obligations.  
-> No alliance may occupy more than one state simultaneously.
-
+> No alliance may occupy more than one membership state simultaneously.
+:::
 ---
 
 ## ⚖️ Definitions
@@ -38,8 +38,9 @@ They possess voting authority and full protection under NAP 9.
 
 ### Section I — Eligibility {#t1-art1-sec1}
 An alliance qualifies for Full Membership when it:
-1. Ranks within the **top nine alliances** by weekly power metrics, skipping ineligible alliances, and  
-2. Publicly affirms and abides by the entirety of this Covenant.
+1. Ranks within the **top nine alliances** by weekly power metrics, skipping ineligible alliances,
+2. Publicly affirms and abides by the entirety of this Covenant,
+3. Is in positive standing with the Council
 
 ### Section II — Representation {#t1-art1-sec2}
 Each Full Member must designate:
@@ -182,4 +183,4 @@ Disputes regarding membership interpretation fall under the authority of the **N
 
 ---
 
-_Last amended by Council vote \[insert date\]._
+_Last amended by Council vote \[not amended\]._

@@ -144,4 +144,4 @@ The original valid vote stands unless the Clerk confirms a logging error.
 
 ---
 
-_Last amended by Council vote \[insert date\]._
+_Last amended by Council vote \[not amended\]._

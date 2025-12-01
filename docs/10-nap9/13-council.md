@@ -190,4 +190,4 @@ Council members shall not:
 
 ---
 
-_Last amended by Council vote \[insert date\]._
+_Last amended by Council vote \[not amended\]._

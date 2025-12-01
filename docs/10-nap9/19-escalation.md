@@ -179,4 +179,4 @@ The Council:
 
 ---
 
-_Last amended by Council vote \[insert date\]._
+_Last amended by Council vote \[not amended\]._

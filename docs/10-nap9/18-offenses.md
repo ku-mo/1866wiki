@@ -193,4 +193,4 @@ as long as final decisions remain consistent with the tier structure.
 
 ---
 
-_Last a_
+_Last amended by Council vote \[not amended\]._

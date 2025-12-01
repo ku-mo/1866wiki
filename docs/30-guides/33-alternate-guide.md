@@ -1,13 +1,13 @@
 ---
-id: guide-delegates
-title: Delegate Guide
-sidebar_label: Delegate Guide
+id: guide-alternate
+title: Alternate's Quickref Guide
+sidebar_label: Alternate's Quickref Guide
 sidebar_position: 33
 description: Training material for designated alternates handling Council votes and discussions.
-slug: /guide-delegates
+slug: /guide-alternates
 ---
 
-# Delegate Guide
+# Alternate's Quickref Guide
 
 :::info Guide
 Operational reference for Alternates acting in place of the primary Voting Representative.
@@ -71,7 +71,7 @@ Votes are locked; do not attempt edits after posting.
 
 # 4. Conflict of Interest
 
-Delegates must ABSTAIN when:
+Delegates must `ABSTAIN` when:
 
 - your alliance is the offender  
 - your alliance is the victim  
@@ -121,9 +121,19 @@ If away or offline:
 
 ### Voting
 
-- `[TAG] — YES`
-- `[TAG] — NO`
-- `[TAG] — ABSTAIN`
+Use this structure:
+
+- `CASEID [TAG] YES`  
+- `CASEID [TAG] NO`  
+- `CASEID [TAG] ABSTAIN`
+
+Examples:
+
+- `C-251202-01 [GMOB] YES`  
+- `C-251202-01 [BZST] NO`  
+- `C-251202-01 [RFW] ABSTAIN`
+
+Reactions, emojis, or phrases like “I lean yes” are **not** votes.
 
 ### Requesting Procedural Clarification
 
