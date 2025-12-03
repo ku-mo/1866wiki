@@ -4,15 +4,18 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 4rem 0 3rem;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: radial-gradient(circle at 20% 20%, rgba(114, 135, 253, 0.12), transparent 35%),
+    radial-gradient(circle at 80% 0%, rgba(139, 213, 202, 0.1), transparent 40%),
+    linear-gradient(160deg, rgba(17, 17, 27, 0.92), rgba(24, 24, 37, 0.92));
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 2.5rem 1.5rem;
   }
 }
 
@@ -20,6 +23,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 1.25rem;
 }
 
 .logoRow {
@@ -32,4 +36,90 @@
   width: clamp(14rem, 30vw, 22rem);
   height: clamp(14rem, 30vw, 22rem);
   fill: currentColor;
+}
+
+.heroCopy {
+  max-width: 720px;
+  margin: 0 auto 1.5rem;
+  color: #cdd6f4;
+}
+
+.heroTitle {
+  font-size: clamp(2.25rem, 4vw, 3rem);
+  letter-spacing: 0.02em;
+  margin-bottom: 0.4rem;
+}
+
+.heroSubtitle {
+  font-size: 1.05rem;
+  color: #a6adc8;
+  margin: 0;
+}
+
+.narrativeCard {
+  max-width: 860px;
+  margin: 1rem auto 0;
+  padding: 1.5rem 1.75rem;
+  background: linear-gradient(145deg, rgba(24, 24, 37, 0.78), rgba(30, 30, 46, 0.9));
+  border: 1px solid rgba(139, 213, 202, 0.2);
+  border-radius: 14px;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
+  text-align: left;
+  color: #cdd6f4;
+  line-height: 1.8;
+  letter-spacing: 0.01em;
+  position: relative;
+  overflow: hidden;
+  font-weight: 400;
+}
+
+.narrativeCard p {
+  margin: 0.8rem 0;
+  text-indent: 1.25rem;
+}
+
+.narrativeCard p:not(:last-child) {
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid rgba(139, 213, 202, 0.14);
+}
+
+.narrativeCard::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 15% 20%, rgba(203, 166, 247, 0.12), transparent 35%),
+    radial-gradient(circle at 85% 80%, rgba(139, 213, 202, 0.14), transparent 40%);
+  pointer-events: none;
+}
+
+.cta {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #cba6f7, #89dceb);
+  color: #11111b;
+  border: none;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+}
+
+.cta:hover {
+  color: #11111b;
+  transform: translateY(-1px);
+  transition: transform 120ms ease, box-shadow 120ms ease;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.35);
+}
+
+.accentSubtle {
+  color: #c5cced;
+  font-weight: 650;
+}
+
+.accentSubtleAlt {
+  color: #c5e4df;
+  font-weight: 650;
+}
+
+.accentSubtleWarm {
+  color: #e7e2d6;
+  font-weight: 650;
 }
